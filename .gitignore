@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dataset
+/medicare-prv-fraud-files
+/healthcare-provider-fraud-detection-analysis
